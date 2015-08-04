@@ -1,0 +1,5 @@
+<resources>
+    <color name="twtt_primary">#1b87ae</color>
+    <color name="twtt_accent">#ffffff</color>
+    <color name="twtt_text">#000000</color>
+</resources>

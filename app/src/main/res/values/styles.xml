@@ -1,0 +1,8 @@
+<resources>
+    <style name="TWTTTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/twtt_text</item>
+        <item name="colorAccent">@color/twtt_accent</item>
+        <item name="colorPrimary">@color/twtt_primary</item>
+    </style>
+</resources>
