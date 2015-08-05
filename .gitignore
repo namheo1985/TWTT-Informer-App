@@ -1,0 +1,16 @@
+
+build/intermediates/dex-cache/cache.xml
+
+build/intermediates/dex-cache/cache.xml
+
+build/intermediates/gradle_project_sync_data.bin
+
+*.iml
+
+.gradle/2.2.1/taskArtifacts/cache.properties
+
+.gradle/2.2.1/taskArtifacts/cache.properties.lock
+
+*.bin
+
+.idea/.name
